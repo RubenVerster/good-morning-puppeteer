@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "good-morning": "nodemon good-morning.js",
+    "9gag": "nodemon good-morning-9gag.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
